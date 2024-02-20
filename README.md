@@ -8,23 +8,23 @@
 
 Here are two screenshots of the Player Analysis Page upon startup.
 
-![App Startup 1](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+![App Startup 1](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/AppStartup1.PNG)
 
-![App Startup 2](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+![App Startup 2](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/AppStartup2.PNG)
 
 Here are two screenshots of the Player Comparison Page upon startup.
 
-![App Startup 3](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+![App Startup 3](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/AppStartup3.PNG)
 
-![App Startup 4](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+![App Startup 4](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/AppStartup4.PNG)
 
 Here is a screenshot displaying fantasy football statistics for Ja'Marr Chase.
 
-![Ja'Marr Chase](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+![Ja'Marr Chase](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/JamarrChase.PNG)
 
 Here is a screenshot comparing fantasy football statistics between Jordan Love and Dak Prescott.
 
-![Jordan Love vs. Dak Prescott](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+![Jordan Love vs. Dak Prescott](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/JordanLoveVsDakPrescott.PNG)
 
 ## Sample Insights
 
