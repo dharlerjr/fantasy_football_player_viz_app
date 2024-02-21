@@ -27,11 +27,11 @@ Here are two screenshots of the Player Comparison Page upon startup.
 
 ![App Startup 4](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/AppStartup4.PNG)
 
-Here is a screenshot displaying fantasy football statistics for Ja'Marr Chase.
+Here's a screenshot displaying fantasy football statistics for Ja'Marr Chase.
 
 ![Ja'Marr Chase](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/JamarrChase.PNG)
 
-Here is a screenshot comparing fantasy football statistics between Jordan Love and Dak Prescott.
+Here's a screenshot comparing fantasy football statistics between Jordan Love and Dak Prescott.
 
 ![Jordan Love vs. Dak Prescott](https://github.com/dharlerjr/fantasy_football_player_viz_app/blob/main/Images/JordanLoveVsDakPrescott.PNG)
 
